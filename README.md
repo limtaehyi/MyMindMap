@@ -9,3 +9,5 @@
 3. [🔬포렌식 침해사고](https://mm.tt/app/map/2881196063?t=PozxXsffED)
  - 휘발성, 비휘발성 정보
  - OS 시스템
+
+<img src="/네트워크.png">
