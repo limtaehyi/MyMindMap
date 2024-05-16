@@ -11,3 +11,5 @@
  - OS 시스템
 
 <img src="/네트워크.png">
+<img src="/컴퓨터 기초.png">
+<img src="/포렌식 침해사고.png">
