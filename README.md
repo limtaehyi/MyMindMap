@@ -4,7 +4,7 @@
  - 하드웨어
  - 소프트웨어
 <br>
-<img src="/네트워크 기초.png" size="50%">
+<img src="/네트워크.png" size="50%">
 <br>
 
 2. [🖥️컴퓨터 기초](https://mm.tt/app/map/2877200209?t=aYPMILUE0M)
